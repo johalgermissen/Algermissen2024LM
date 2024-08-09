@@ -1,0 +1,5 @@
+block,trialnr,stimulus,condition,valence,reqAction,manipulation,goValidity,nogoValidity,ISI,ITI
+2,1,Pract_NG2W,3,1,0,0,1,1,0.7,1.5
+2,2,Pract_NG2W,3,1,0,1,1,1,0.7,1.5
+2,3,Pract_NG2W,3,1,0,1,0,0,0.7,1.5
+2,4,Pract_NG2W,3,1,0,0,1,1,0.7,1.5
